@@ -43,6 +43,7 @@ Test automation improves software quality, accelerates development cycles, and e
 
 ## API Testing
 
+- [BitDive](https://bitdive.io/) – Zero-code API testing for Java/Kotlin with automatic mock generation.
 - [Postman](https://www.postman.com/) – API platform for testing, development, and collaboration.
 - [REST Assured](https://rest-assured.io/) – Java DSL for testing REST APIs.
 - [Karate](https://github.com/karatelabs/karate) – BDD testing for API and UI.
